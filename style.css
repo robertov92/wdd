@@ -1,0 +1,29 @@
+* {
+  color: aliceblue;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: #7bc8ff;
+  font-size: 2rem;
+}
+
+h2 {
+  color: #a0a9f5;
+}
+
+a {
+  color: #87f5d0;
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+}
+
+body {
+  background-color: #333333;
+  font-family: "Courier New";
+}
+/*# sourceMappingURL=style.css.map */

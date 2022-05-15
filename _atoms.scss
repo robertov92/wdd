@@ -1,0 +1,23 @@
+@mixin marginPadding {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  color: aliceblue;
+  @include marginPadding();
+}
+h1 {
+  color: rgb(123, 200, 255);
+  font-size: 2rem;
+}
+h2 {
+  color: rgb(160, 169, 245);
+}
+a {
+  color: rgb(135, 245, 208);
+  text-decoration: none;
+}
+li {
+  list-style-type: none;
+}

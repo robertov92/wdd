@@ -1,0 +1,9 @@
+@import "./variables";
+@import "./molecules";
+@import "./organisms";
+@import "./atoms";
+
+body {
+  background-color: $primary-bg;
+  font-family: $global-font;
+}
